@@ -1,0 +1,252 @@
+{
+  "slides": [
+    {
+      "id": "s1",
+      "type": "Hero",
+      "primaryTitle": "PHẠM ĐẶNG\nTHU HIỀN",
+      "secondaryTitle": "PORTFOLIO",
+      "body": {
+        "Address": "District 10, Ho Chi Minh City",
+        "Phone": "0962070074",
+        "Email": "Pdth112005@gmail.com"
+      },
+      "keyHighlights": ["Contact Information"],
+      "images": {
+        "hero": "./assets/ảnhHien.png",
+        "bg": "./assets/s1_bg_texture_01.png.jpg"
+      }
+    },
+    {
+      "id": "s2",
+      "type": "SplitDashboard",
+      "align": "left",
+      "primaryTitle": "EDUCATION",
+      "secondaryTitle": "University of Economics Ho Chi Minh City (UEH)",
+      "body": {
+        "Degree": "Bachelor of Business Administration",
+        "Major": "Business Administration",
+        "GPA": "3.71/4.00"
+      },
+      "keyHighlights": ["GPA: 3.71/4.00", "Major: Business Administration"],
+      "images": {
+        "side": "./assets/s2_ueh_campus_01.jpg.jpg",
+        "icon": "./assets/s2_gpa_icon_01.svg.jpg"
+      }
+    },
+    {
+      "id": "s3",
+      "type": "AdaptiveShowcase",
+      "primaryTitle": "WORK EXPERIENCES",
+      "secondaryTitle": "Timeline 2023 - 2026",
+      "body": [
+        "Fanpage Leader at Chuyện ở S | HR Department – S Communications",
+        "Head of Internal Communications team at Social Work Project 2025 | S Communications",
+        "Employer Branding Team Leader | S Communications",
+        "Student, Digital Marketing in Action | CareerPrep"
+      ],
+      "keyHighlights": ["2023 - 2026 Journey"],
+      "images": {
+        "bg": "./assets/s3_timeline_bg_01.png.png",
+        "logo": "./assets/s3_scomms_logo_01.png.png"
+      }
+    },
+    {
+      "id": "s4",
+      "type": "SplitDashboard",
+      "align": "right",
+      "primaryTitle": "FANPAGE LEADER AT CHUYỆN Ở S",
+      "secondaryTitle": "HR Department – S Communications (Nov 2024 – Oct 2025)",
+      "body": [
+        "Built an action plan and content direction aligned with the department's communication goals.",
+        "Developed engaging communication messages and content to promote internal activities and updates to members.",
+        "Analyzed content performance and communication trends to continuously improve audience engagement.",
+        "Grew the fanpage by 1,000+ followers and achieved an average reach of 1,000+ per post within the year."
+      ],
+      "keyHighlights": [
+        "Grew the fanpage by 1,000+ followers",
+        "Achieved an average reach of 1,000+ per post within the year"
+      ],
+      "images": {
+        "side": "./assets/s4_fanpage_mockup_01.png.png",
+        "icon": "./assets/s4_metric_growth_01.svg.svg"
+      }
+    },
+    {
+      "id": "s5",
+      "type": "SplitDashboard",
+      "align": "left",
+      "primaryTitle": "HEAD OF INTERNAL COMMUNICATIONS TEAM",
+      "secondaryTitle": "S Communications (Nov 2024 – Mar 2025)",
+      "body": [
+        "Developed detailed plans for each phase of the project.",
+        "Researched trending topics and reference materials to enhance content creativity.",
+        "Coordinated with Content and Event teams to ensure accurate, timely, and aligned content delivery.",
+        "Developed communication ideas and created engaging content series aligned with the project's overall direction, achieving 100+ engagements per post within the internal group and attracting 100+ members to participate on the event day."
+      ],
+      "keyHighlights": [
+        "Achieved 100+ engagements per post within the internal group",
+        "Attracted 100+ members to participate on the event day"
+      ],
+      "images": {
+        "side": "./assets/s5_project_poster_01.jpg.jpg",
+        "icon": "./assets/s5_engagement_icon_01.svg.svg"
+      }
+    },
+    {
+      "id": "s5_media",
+      "type": "MediaGallery",
+      "primaryTitle": "SẢN PHẨM TRUYỀN THÔNG",
+      "secondaryTitle": "Portfolio Showcase",
+      "images": {
+        "square": [
+          "./assets/H1.jpg",
+          "./assets/H2.jpg",
+          "./assets/H3.jpg",
+          "./assets/H4.jpg",
+          "./assets/H5.jpg",
+          "./assets/H6.jpg",
+          "./assets/H7.png"
+        ],
+        "laptop": [
+          "./assets/Mockup1.png",
+          "./assets/Mockup2.png",
+          "./assets/Mockup5.png",
+          "./assets/Mockup4.png"
+        ]
+      }
+    },
+    {
+      "id": "s6",
+      "type": "BentoGrid",
+      "primaryTitle": "EMPLOYER BRANDING TEAM LEADER",
+      "secondaryTitle": "S Communications (Nov 2024 – Dec 2024)",
+      "body": [
+        "Developed plans for each phase of the project, setting KPIs for reach, engagement.",
+        "Researched member insights to propose trend-aligned content.",
+        "Contributed to brief development, content review, caption writing, and PR.",
+        "Achieved an average of +7,000 reach per post (peaking at 23,000+), grew the fanpage by +200 followers, and received positive feedback from members and alumni."
+      ],
+      "keyHighlights": [
+        "Average of +7,000 reach per post (peaking at 23,000+)",
+        "Grew the fanpage by +200 followers"
+      ],
+      "images": {
+        "main": "./assets/EBsuper.png",
+        "icon": "./assets/s6_feedback_quote_01.svg.svg"
+      },
+      "products": [
+        "./assets/EB1.jpg",
+        "./assets/EB2.jpg",
+        "./assets/EB3.jpg"
+      ]
+    },
+    {
+      "id": "s6_media",
+      "type": "MediaGallery",
+      "primaryTitle": "Một số sản phẩm truyền thông của team EB",
+      "secondaryTitle": "Portfolio showcase",
+      "images": {
+        "laptop": [
+          "./assets/EB4.png",
+          "./assets/EB5.png",
+          "./assets/EB6.png",
+          "./assets/EB7.png"
+        ]
+      }
+    },
+    {
+      "id": "s7",
+      "type": "SplitDashboard",
+      "align": "right",
+      "primaryTitle": "STUDENT, DIGITAL MARKETING IN ACTION",
+      "secondaryTitle": "CareerPrep (Jul 2025)",
+      "body": [
+        "Built an IMC plan based on a real-data case study.",
+        "Gained hands-on knowledge across the full marketing funnel: Foundation, Paid-Owned-Earned channels, Planning, Optimization, and Reporting.",
+        "Practiced running ads on Facebook, Google, and TikTok, and calculating key digital metrics.",
+        "Built performance dashboards using Looker Studio to track and report campaign results."
+      ],
+      "keyHighlights": [
+        "Built an IMC plan based on a real-data case study",
+        "Built performance dashboards using Looker Studio"
+      ],
+      "images": {
+        "side1": "./assets/Dashboard1.png",
+        "side2": "./assets/Dashboard2.png"
+      }
+    },
+    {
+      "id": "s7_plans",
+      "type": "PlanGallery",
+      "plans": [
+        {
+          "title": "Digital Plan",
+          "image": "./assets/Plan1.png"
+        },
+        {
+          "title": "Dashboard & Report",
+          "image": "./assets/Plan2.png"
+        },
+        {
+          "title": "Facebook Ads",
+          "image": "./assets/Plan3.Ads.png"
+        }
+      ]
+    },
+    {
+      "id": "s8",
+      "type": "AdaptiveShowcase",
+      "primaryTitle": "CERTIFICATIONS & COURSES",
+      "secondaryTitle": "Professional Development",
+      "body": [
+        "Digital Marketing in Action | CareerPrep | 2025",
+        "Microsoft Office Specialist (MOS) – Word, Excel, PowerPoint | 2025"
+      ],
+      "keyHighlights": [
+        "Digital Marketing in Action (2025)",
+        "MOS Word, Excel, PowerPoint (2025)"
+      ],
+      "images": {
+        "cert1": "./assets/s8_careerprep_cert_01.png.png",
+        "cert2": "./assets/certi.png"
+      }
+    },
+    {
+      "id": "s9",
+      "type": "BentoGrid",
+      "primaryTitle": "ADDITIONAL INFORMATION",
+      "secondaryTitle": "Core Skills & Key Achievements",
+      "body": {
+        "Teamwork Skills": [
+          "Collaborated with team members on academic projects and campaigns.",
+          "Developed a strategic development plan for Viettel Group in the Strategic Management course."
+        ],
+        "Leadership Skills": [
+          "Led several academic project teams and coordinated tasks among members"
+        ],
+        "Research & Analysis Skills": [
+          "Researched international articles and journals to support academic learning.",
+          "Analyzed campaign data to optimize profitability in an IMC plan"
+        ]
+      },
+      "software": "Canva, CapCut, Microsoft Word, Microsoft PowerPoint, Microsoft Excel, Claude",
+      "keyHighlights": [
+        "Teamwork Skills (Strategic development plan for Viettel Group)",
+        "Leadership Skills (Led several academic project teams)",
+        "Research & Analysis Skills (Data analysis in an IMC plan)",
+        "Software Skills (Canva, CapCut, MS Office, Claude)"
+      ],
+      "images": {
+        "project": "./assets/s9_viettel_case_01.jpg.png",
+        "logos": [
+          "./assets/logo.canva.jpg",
+          "./assets/logo.capcut.jpg",
+          "./assets/logo.word.png",
+          "./assets/logo.powerpoint.png",
+          "./assets/logo.excel.png",
+          "./assets/logo.claude.png"
+        ]
+      }
+    }
+  ]
+}
