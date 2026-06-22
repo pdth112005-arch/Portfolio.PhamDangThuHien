@@ -12,8 +12,8 @@
       },
       "keyHighlights": ["Contact Information"],
       "images": {
-        "hero": "/ảnhHien.png",
-        "bg": "/s1_bg_texture_01.png.jpg"
+        "hero": "./assets/ảnhHien.png",
+        "bg": "./assets/s1_bg_texture_01.png.jpg"
       }
     },
     {
@@ -25,12 +25,12 @@
       "body": {
         "Degree": "Bachelor of Business Administration",
         "Major": "Business Administration",
-        "GPA": "3.71/4.00"
+        "GPA": "3.71./assets/4.00"
       },
-      "keyHighlights": ["GPA: 3.71/4.00", "Major: Business Administration"],
+      "keyHighlights": ["GPA: 3.71./assets/4.00", "Major: Business Administration"],
       "images": {
-        "side": "/s2_ueh_campus_01.jpg.jpg",
-        "icon": "/s2_gpa_icon_01.svg.jpg"
+        "side": "./assets/s2_ueh_campus_01.jpg.jpg",
+        "icon": "./assets/s2_gpa_icon_01.svg.jpg"
       }
     },
     {
@@ -46,8 +46,8 @@
       ],
       "keyHighlights": ["2023 - 2026 Journey"],
       "images": {
-        "bg": "/s3_timeline_bg_01.png.png",
-        "logo": "/s3_scomms_logo_01.png.png"
+        "bg": "./assets/s3_timeline_bg_01.png.png",
+        "logo": "./assets/s3_scomms_logo_01.png.png"
       }
     },
     {
@@ -67,8 +67,8 @@
         "Achieved an average reach of 1,000+ per post within the year"
       ],
       "images": {
-        "side": "/s4_fanpage_mockup_01.png.png",
-        "icon": "/s4_metric_growth_01.svg.svg"
+        "side": "./assets/s4_fanpage_mockup_01.png.png",
+        "icon": "./assets/s4_metric_growth_01.svg.svg"
       }
     },
     {
@@ -88,8 +88,8 @@
         "Attracted 100+ members to participate on the event day"
       ],
       "images": {
-        "side": "/s5_project_poster_01.jpg.jpg",
-        "icon": "/s5_engagement_icon_01.svg.svg"
+        "side": "./assets/s5_project_poster_01.jpg.jpg",
+        "icon": "./assets/s5_engagement_icon_01.svg.svg"
       }
     },
     {
@@ -99,19 +99,19 @@
       "secondaryTitle": "Portfolio Showcase",
       "images": {
         "square": [
-          "/H1.jpg",
-          "/H2.jpg",
-          "/H3.jpg",
-          "/H4.jpg",
-          "/H5.jpg",
-          "/H6.jpg",
-          "/H7.png"
+          "./assets/H1.jpg",
+          "./assets/H2.jpg",
+          "./assets/H3.jpg",
+          "./assets/H4.jpg",
+          "./assets/H5.jpg",
+          "./assets/H6.jpg",
+          "./assets/H7.png"
         ],
         "laptop": [
-          "/Mockup1.png",
-          "/Mockup2.png",
-          "/Mockup5.png",
-          "/Mockup4.png"
+          "./assets/Mockup1.png",
+          "./assets/Mockup2.png",
+          "./assets/Mockup5.png",
+          "./assets/Mockup4.png"
         ]
       }
     },
@@ -131,13 +131,13 @@
         "Grew the fanpage by +200 followers"
       ],
       "images": {
-        "main": "/EBsuper.png",
-        "icon": "/s6_feedback_quote_01.svg.svg"
+        "main": "./assets/EBsuper.png",
+        "icon": "./assets/s6_feedback_quote_01.svg.svg"
       },
       "products": [
-        "/EB1.jpg",
-        "/EB2.jpg",
-        "/EB3.jpg"
+        "./assets/EB1.jpg",
+        "./assets/EB2.jpg",
+        "./assets/EB3.jpg"
       ]
     },
     {
@@ -147,10 +147,10 @@
       "secondaryTitle": "Portfolio showcase",
       "images": {
         "laptop": [
-          "/EB4.png",
-          "/EB5.png",
-          "/EB6.png",
-          "/EB7.png"
+          "./assets/EB4.png",
+          "./assets/EB5.png",
+          "./assets/EB6.png",
+          "./assets/EB7.png"
         ]
       }
     },
@@ -171,8 +171,8 @@
         "Built performance dashboards using Looker Studio"
       ],
       "images": {
-        "side1": "/Dashboard1.png",
-        "side2": "/Dashboard2.png"
+        "side1": "./assets/Dashboard1.png",
+        "side2": "./assets/Dashboard2.png"
       }
     },
     {
@@ -181,15 +181,15 @@
       "plans": [
         {
           "title": "Digital Plan",
-          "image": "/Plan1.png"
+          "image": "./assets/Plan1.png"
         },
         {
           "title": "Dashboard & Report",
-          "image": "/Plan2.png"
+          "image": "./assets/Plan2.png"
         },
         {
           "title": "Facebook Ads",
-          "image": "/Plan3.Ads.png"
+          "image": "./assets/Plan3.Ads.png"
         }
       ]
     },
@@ -207,8 +207,8 @@
         "MOS Word, Excel, PowerPoint (2025)"
       ],
       "images": {
-        "cert1": "/s8_careerprep_cert_01.png.png",
-        "cert2": "/certi.png"
+        "cert1": "./assets/s8_careerprep_cert_01.png.png",
+        "cert2": "./assets/certi.png"
       }
     },
     {
@@ -237,14 +237,14 @@
         "Software Skills (Canva, CapCut, MS Office, Claude)"
       ],
       "images": {
-        "project": "/s9_viettel_case_01.jpg.png",
+        "project": "./assets/s9_viettel_case_01.jpg.png",
         "logos": [
-          "/logo.canva.jpg",
-          "/logo.capcut.jpg",
-          "/logo.word.png",
-          "/logo.powerpoint.png",
-          "/logo.excel.png",
-          "/logo.claude.png"
+          "./assets/logo.canva.jpg",
+          "./assets/logo.capcut.jpg",
+          "./assets/logo.word.png",
+          "./assets/logo.powerpoint.png",
+          "./assets/logo.excel.png",
+          "./assets/logo.claude.png"
         ]
       }
     }
